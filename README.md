@@ -1,2 +1,2 @@
 # QR-Code-Reader-and-Generator
-This mini python Project is divided in two parts. The first part generated QR Code and the Second Part reads the QR code.
+### Welcome to QRcode Generator and Reader’s documentation! Here, I shall give an overview of all the steps you need to know to get started with this project.
