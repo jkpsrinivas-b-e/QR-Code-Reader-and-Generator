@@ -40,7 +40,7 @@ As of now, this project runs on Python 3.x . Make sure that all the given should
 ## Steps to read Qrcode
 #### First open your IDE and activate the virtual environment in which all the plugins are installed
 
-* To read the Qr code open the QR Code Reader folder and then the reader.py file.
+* To read the Qr code open the QR Code Reader folder and then the Reader.py file.
 * Now run the file
 
 ## References
